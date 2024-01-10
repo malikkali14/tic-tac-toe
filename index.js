@@ -109,7 +109,6 @@ function GameController(playerOne = "playerOne", playerTwo = "playerTwo") {
                 return;
             }
         }
-    
     }
     
 
